@@ -1,0 +1,11 @@
+{
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/70219a74-fc77-4c8c-9776-8759d0eb5039/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/dwthomas77-azure-poc",
+  "appService.deploySubpath": "",
+  "files.exclude": {
+    "**/.git": false
+  }
+}
