@@ -6,7 +6,7 @@ const router = express.Router();
 const port = 3000;
 
 
-
+const appTestCounter = 1;
 
 router.get('/',function(req,res){
   //console.log(path.join(__dirname+'/azure-client-demo/build/index.html'));

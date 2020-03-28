@@ -65,3 +65,6 @@ dist/
 
 # client install
 azure-client-demo/
+
+# IDE stuff
+.vscode/
