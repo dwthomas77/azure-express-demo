@@ -3,7 +3,7 @@ var path = require('path');
 
 var app = express()
 var router = express.Router();
-var port = 3000;
+var port = 8080;
 
 var appTestCounter = 1;
 
