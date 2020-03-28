@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "",
-    "start": "npm run build && node server-compiled.js",
+    "start": "node server.js",
     "build": "babel server.js -o server-compiled.js"
   },
   "repository": {
