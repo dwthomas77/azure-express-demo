@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "",
     "start": "npm run build && node server-compiled.js",
     "build": "babel server.js -o server-compiled.js"
   },
